@@ -7,4 +7,4 @@ Code is basically taken from https://github.com/googlesamples/assistant-sdk-pyth
 
 Main file is `fish.py` which extends some of the classes in the sample code, and adds the RPI.GPIO motor, led, and button control.
 
-![Fish](https://raw.githubusercontent.com/AklemTech/fish_assistant/master/fish.jpg)
+![Fish](https://raw.githubusercontent.com/alextechcc/fish_assistant/master/fish.jpg)

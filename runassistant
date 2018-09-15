@@ -1,0 +1,4 @@
+#!/bin/bash
+
+. /home/pi/env/bin/activate
+python /home/pi/assistant/pushtotalk.py
